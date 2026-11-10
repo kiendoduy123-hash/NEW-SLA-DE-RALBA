@@ -1,0 +1,44 @@
+figure,metric,dataset,jobs,value,unit,source_page
+3,ARUR,GoCJ,1000,0.969620845,ratio,1306
+3,ARUR,GoCJ,2000,0.985951657,ratio,1306
+3,ARUR,GoCJ,3000,0.978143614,ratio,1306
+3,ARUR,GoCJ,4000,0.979671756,ratio,1306
+3,ARUR,GoCJ,5000,0.987265181,ratio,1306
+3,ARUR,GoCJ,6000,0.979720015,ratio,1306
+4,Mean ARUR,GoCJ,all,0.980062178,ratio,1306
+5,Makespan,GoCJ,1000,4999.501868,time units,1307
+5,Makespan,GoCJ,2000,4998.072857,time units,1307
+5,Makespan,GoCJ,3000,4999.280519,time units,1307
+5,Makespan,GoCJ,4000,4997.131429,time units,1307
+5,Makespan,GoCJ,5000,4996.276471,time units,1307
+5,Makespan,GoCJ,6000,4996.540879,time units,1307
+6,Job Rejection Ratio,GoCJ,1000,0,ratio,1307
+6,Job Rejection Ratio,GoCJ,2000,0,ratio,1307
+6,Job Rejection Ratio,GoCJ,3000,0,ratio,1307
+6,Job Rejection Ratio,GoCJ,4000,0,ratio,1307
+6,Job Rejection Ratio,GoCJ,5000,0,ratio,1307
+6,Job Rejection Ratio,GoCJ,6000,0,ratio,1307
+7,Throughput,GoCJ,1000,0.200199273,jobs per time unit,1308
+7,Throughput,GoCJ,2000,0.400554231,jobs per time unit,1308
+7,Throughput,GoCJ,3000,0.600863389,jobs per time unit,1308
+7,Throughput,GoCJ,4000,0.800138996,jobs per time unit,1308
+7,Throughput,GoCJ,5000,1.00324756,jobs per time unit,1308
+7,Throughput,GoCJ,6000,1.200830764,jobs per time unit,1308
+8,Energy Consumption,GoCJ,1000,634.0750282,Joules,1309
+8,Energy Consumption,GoCJ,2000,658.3809319,Joules,1309
+8,Energy Consumption,GoCJ,3000,658.7128625,Joules,1309
+8,Energy Consumption,GoCJ,4000,654.9437363,Joules,1309
+8,Energy Consumption,GoCJ,5000,656.6912772,Joules,1309
+8,Energy Consumption,GoCJ,6000,652.9926194,Joules,1309
+9,Execution Time,GoCJ,1000,2891.028212,seconds,1309
+9,Execution Time,GoCJ,2000,3397.163558,seconds,1309
+9,Execution Time,GoCJ,3000,3392.919265,seconds,1309
+9,Execution Time,GoCJ,4000,3383.005182,seconds,1309
+9,Execution Time,GoCJ,5000,3404.447679,seconds,1309
+9,Execution Time,GoCJ,6000,3368.40158,seconds,1309
+10,Execution Cost,GoCJ,1000,3524.805343,cost units,1310
+10,Execution Cost,GoCJ,2000,4035.682758,cost units,1310
+10,Execution Cost,GoCJ,3000,4067.085679,cost units,1310
+10,Execution Cost,GoCJ,4000,4050.185474,cost units,1310
+10,Execution Cost,GoCJ,5000,4069.665949,cost units,1310
+10,Execution Cost,GoCJ,6000,4031.875899,cost units,1310

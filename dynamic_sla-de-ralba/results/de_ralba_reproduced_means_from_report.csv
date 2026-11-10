@@ -1,0 +1,6 @@
+workload_jobs,de_ralba_mean_makespan,de_ralba_paper_makespan,de_ralba_makespan_report_delta,de_ralba_mean_arur,de_ralba_paper_arur,de_ralba_arur_report_delta,de_source_runs,source
+100,646.7,450.0,+43.7%,0.253,0.487,-48.1%,100,"DE-RALBA_Paper_Validation_Report.docx, GoCJ table (100-run means)"
+500,1262.0,2417.0,-47.8%,0.972,0.641,+51.6%,100,"DE-RALBA_Paper_Validation_Report.docx, GoCJ table (100-run means)"
+1000,2490.0,3686.0,-32.4%,0.988,0.709,+39.4%,100,"DE-RALBA_Paper_Validation_Report.docx, GoCJ table (100-run means)"
+3000,7761.8,8739.0,-11.2%,0.991,0.868,+14.2%,100,"DE-RALBA_Paper_Validation_Report.docx, GoCJ table (100-run means)"
+6000,15199.4,17123.0,-11.2%,0.995,0.864,+15.2%,100,"DE-RALBA_Paper_Validation_Report.docx, GoCJ table (100-run means)"

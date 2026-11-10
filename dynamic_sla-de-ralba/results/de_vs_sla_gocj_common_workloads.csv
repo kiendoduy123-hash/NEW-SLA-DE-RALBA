@@ -1,0 +1,4 @@
+workload_jobs,de_ralba_makespan_mean_100_runs,sla_de_ralba_makespan_mean_5_runs,makespan_change_pct_sla_vs_de,makespan_direction,de_ralba_arur_mean_100_runs,sla_de_ralba_arur_mean_5_runs,arur_change_pct_sla_vs_de,arur_direction,comparison_note
+1000,2490.00,4998.08,+100.73,higher / worse,0.988000,0.792399,-19.80,lower / degraded,descriptive only; input semantics and exact run configuration are not equivalent or verified
+3000,7761.80,4755.62,-38.73,lower / improved,0.991000,0.899735,-9.21,lower / degraded,descriptive only; input semantics and exact run configuration are not equivalent or verified
+6000,15199.40,4625.15,-69.57,lower / improved,0.995000,0.813961,-18.19,lower / degraded,descriptive only; input semantics and exact run configuration are not equivalent or verified
